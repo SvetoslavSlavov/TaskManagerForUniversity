@@ -56,8 +56,8 @@ namespace Tasks.Web
             //   consumerSecret: "");
 
             app.UseFacebookAuthentication(
-               appId: "228973817523772",
-               appSecret: "f4d133eaa5cebe174ae1945c1393dee6");
+               appId: "264489454017223",
+               appSecret: "ee276c712fe512bb11994ee27d2b2d58");
 
             app.UseGoogleAuthentication(
 
