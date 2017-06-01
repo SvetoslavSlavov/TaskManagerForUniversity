@@ -1,0 +1,31 @@
+﻿@model Tasks.Web.Models.UpcomingPassedTasksViewModel
+
+<h1 class="task-group-heading">Upcoming Tasks</h1>
+
+<div class="row">
+    @if (Model.UpcomingTasks.Any())
+    {
+        @Html.DisplayFor(x => x.UpcomingTasks)
+    }
+    else
+    {
+        <div class="col-md-4 col-sm-6 col-xs-12">No tasks</div>
+    }
+</div>
+
+<h1 class="task-group-heading">Passed Tasks</h1>
+
+<div class="row">
+    @if (Model.PassedTasks.Any())
+    {
+        @Html.DisplayFor(x => x.PassedTasks)
+    }
+    else
+    {
+        <div class="col-md-4 col-sm-6 col-xs-12">No tasks</div>
+    }
+</div>
+
+@section scripts {
+    @Scripts.Render("~/bundles/ajax")
+}

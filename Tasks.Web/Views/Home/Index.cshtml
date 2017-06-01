@@ -1,0 +1,11 @@
+﻿@model Tasks.Web.Models.UpcomingPassedTasksViewModel
+
+@{
+    ViewBag.Title = "Public Tasks";
+}
+
+@Html.Partial("_Tasks")
+
+@section scripts {
+    @Scripts.Render("~/bundles/ajax")
+}

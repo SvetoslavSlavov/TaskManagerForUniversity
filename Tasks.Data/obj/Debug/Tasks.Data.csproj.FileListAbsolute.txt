@@ -1,0 +1,30 @@
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.csprojResolveAssemblyReference.cache
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.dll.config
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.pdb
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\EntityFramework.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\EntityFramework.xml
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.dll
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.pdb
+D:\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.dll.config
+D:\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.dll
+D:\TaskManager\Tasks.Data\bin\Debug\Tasks.Data.pdb
+D:\TaskManager\Tasks.Data\bin\Debug\EntityFramework.dll
+D:\TaskManager\Tasks.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TaskManager\Tasks.Data\bin\Debug\EntityFramework.xml
+D:\TaskManager\Tasks.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\TaskManager\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.csprojResolveAssemblyReference.cache
+D:\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.dll
+D:\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.pdb
+D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\System.Linq.Dynamic.dll
+D:\TaskManager\Tasks.Data\bin\Debug\System.Linq.Dynamic.dll
