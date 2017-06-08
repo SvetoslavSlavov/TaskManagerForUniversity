@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 using Tasks.Data;
+using Tasks.Service;
 
 namespace Tasks.Web.Models
 {

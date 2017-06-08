@@ -18,8 +18,7 @@
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
-    <IISExpressSSLPort>
-    </IISExpressSSLPort>
+    <IISExpressSSLPort>44397</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
     <IISExpressWindowsAuthentication>disabled</IISExpressWindowsAuthentication>
     <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
@@ -240,7 +239,9 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -300,6 +301,10 @@
     <ProjectReference Include="..\Tasks.Data\Tasks.Data.csproj">
       <Project>{921F83AD-4940-42A6-AB44-F4D63531B241}</Project>
       <Name>Tasks.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tasks.Service\Tasks.Service.csproj">
+      <Project>{CDEF10C2-2B9B-4847-9AC8-F503A4DEA37D}</Project>
+      <Name>Tasks.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

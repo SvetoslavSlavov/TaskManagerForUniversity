@@ -10,6 +10,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Tasks.Web.Models;
 using Tasks.Data;
+using Tasks.Service;
 
 namespace Tasks.Web.Controllers
 {

@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 using System.Threading.Tasks;
-using Tasks.Data;
+using Tasks.Service;
 
 namespace Tasks.Web.Models
 {
@@ -23,7 +23,7 @@ namespace Tasks.Web.Models
         [Display(Name ="Is Public")]
         public bool IsPublic { get; set; }
 
-         public static TaskInputModel CreateFromTask(Data.Task e)
+         public static TaskInputModel CreateFromTask(Service.Task e)
         {
             return new TaskInputModel()
             {

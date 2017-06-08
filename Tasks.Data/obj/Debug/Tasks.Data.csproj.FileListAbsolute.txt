@@ -28,3 +28,20 @@ D:\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.dll
 D:\TaskManager\Tasks.Data\obj\Debug\Tasks.Data.pdb
 D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Data\bin\Debug\System.Linq.Dynamic.dll
 D:\TaskManager\Tasks.Data\bin\Debug\System.Linq.Dynamic.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\obj\Debug\Tasks.Data.csprojResolveAssemblyReference.cache
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\obj\Debug\Tasks.Data.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\obj\Debug\Tasks.Data.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Tasks.Data.dll.config
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Tasks.Data.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Tasks.Data.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\EntityFramework.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\System.Linq.Dynamic.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Tasks.Service.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Tasks.Service.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\EntityFramework.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

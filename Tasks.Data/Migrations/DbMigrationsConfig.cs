@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Migrations;
 using System.Linq;
+using Tasks.Service;
 
 namespace Tasks.Data.Migrations
 {

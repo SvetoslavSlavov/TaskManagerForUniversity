@@ -64,15 +64,18 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationUser.cs" />
     <Compile Include="ApplicationDbContext.cs" />
-    <Compile Include="Comment.cs" />
     <Compile Include="Migrations\DbMigrationsConfig.cs" />
-    <Compile Include="Task.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tasks.Service\Tasks.Service.csproj">
+      <Project>{cdef10c2-2b9b-4847-9ac8-f503a4dea37d}</Project>
+      <Name>Tasks.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

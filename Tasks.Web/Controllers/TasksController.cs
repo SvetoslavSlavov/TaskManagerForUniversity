@@ -4,6 +4,7 @@ using System;
 using System.Linq;
 using System.Web.Mvc;
 using Tasks.Data;
+using Tasks.Service;
 using Tasks.Web.Extensions;
 using Tasks.Web.Models;
 

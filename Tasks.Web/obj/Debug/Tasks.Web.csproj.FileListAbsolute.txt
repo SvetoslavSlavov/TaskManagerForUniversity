@@ -1,228 +1,78 @@
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\csc.exe
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\System.Collections.Immutable.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\System.Reflection.Metadata.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\vbc.exe
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\VBCSCompiler.exe
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\roslyn\VBCSCompiler.exe.config
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Tasks.Web.dll.config
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Tasks.Web.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Tasks.Web.pdb
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Antlr3.Runtime.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\EntityFramework.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\EntityFramework.SqlServer.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Google.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Web.Infrastructure.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Newtonsoft.Json.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Owin.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Helpers.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Mvc.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Optimization.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Razor.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.Deployment.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.Razor.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\WebGrease.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Helpers.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Mvc.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Optimization.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.Razor.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.Deployment.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Web.WebPages.Razor.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Antlr3.Runtime.pdb
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Newtonsoft.Json.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\EntityFramework.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\EntityFramework.SqlServer.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Google.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.csprojResolveAssemblyReference.cache
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.pdb
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Tasks.Data.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\Tasks.Data.pdb
-D:\TaskManager\Tasks.Web\bin\roslyn\csc.exe
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\TaskManager\Tasks.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\TaskManager\Tasks.Web\bin\roslyn\System.Collections.Immutable.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\System.Reflection.Metadata.dll
-D:\TaskManager\Tasks.Web\bin\roslyn\vbc.exe
-D:\TaskManager\Tasks.Web\bin\roslyn\VBCSCompiler.exe
-D:\TaskManager\Tasks.Web\bin\roslyn\VBCSCompiler.exe.config
-D:\TaskManager\Tasks.Web\bin\Tasks.Web.dll.config
-D:\TaskManager\Tasks.Web\bin\Tasks.Web.dll
-D:\TaskManager\Tasks.Web\bin\Tasks.Web.pdb
-D:\TaskManager\Tasks.Web\bin\Antlr3.Runtime.dll
-D:\TaskManager\Tasks.Web\bin\EntityFramework.dll
-D:\TaskManager\Tasks.Web\bin\EntityFramework.SqlServer.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Google.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.dll
-D:\TaskManager\Tasks.Web\bin\Microsoft.Web.Infrastructure.dll
-D:\TaskManager\Tasks.Web\bin\Newtonsoft.Json.dll
-D:\TaskManager\Tasks.Web\bin\Owin.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.Helpers.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.Mvc.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.Optimization.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.Razor.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.Deployment.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.dll
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.Razor.dll
-D:\TaskManager\Tasks.Web\bin\Tasks.Data.dll
-D:\TaskManager\Tasks.Web\bin\WebGrease.dll
-D:\TaskManager\Tasks.Web\bin\Tasks.Data.pdb
-D:\TaskManager\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.Helpers.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.Mvc.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.Optimization.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.Razor.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.Deployment.xml
-D:\TaskManager\Tasks.Web\bin\System.Web.WebPages.Razor.xml
-D:\TaskManager\Tasks.Web\bin\Antlr3.Runtime.pdb
-D:\TaskManager\Tasks.Web\bin\Newtonsoft.Json.xml
-D:\TaskManager\Tasks.Web\bin\EntityFramework.xml
-D:\TaskManager\Tasks.Web\bin\EntityFramework.SqlServer.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Google.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.xml
-D:\TaskManager\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.csprojResolveAssemblyReference.cache
-D:\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.dll
-D:\TaskManager\Tasks.Web\obj\Debug\Tasks.Web.pdb
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\PagedList.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\PagedList.Mvc.dll
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\PagedList.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\PagedList.Mvc.xml
-D:\ООП и Събитийно Програмиране\TaskManager\Tasks.Web\bin\System.Linq.Dynamic.dll
-D:\TaskManager\Tasks.Web\bin\PagedList.dll
-D:\TaskManager\Tasks.Web\bin\PagedList.Mvc.dll
-D:\TaskManager\Tasks.Web\bin\System.Linq.Dynamic.dll
-D:\TaskManager\Tasks.Web\bin\PagedList.xml
-D:\TaskManager\Tasks.Web\bin\PagedList.Mvc.xml
-D:\TaskManager for University\Tasks.Web\bin\roslyn\csc.exe
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\TaskManager for University\Tasks.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\TaskManager for University\Tasks.Web\bin\roslyn\System.Collections.Immutable.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\System.Reflection.Metadata.dll
-D:\TaskManager for University\Tasks.Web\bin\roslyn\vbc.exe
-D:\TaskManager for University\Tasks.Web\bin\roslyn\VBCSCompiler.exe
-D:\TaskManager for University\Tasks.Web\bin\roslyn\VBCSCompiler.exe.config
-D:\TaskManager for University\Tasks.Web\bin\Tasks.Web.dll.config
-D:\TaskManager for University\Tasks.Web\bin\Tasks.Web.dll
-D:\TaskManager for University\Tasks.Web\bin\Tasks.Web.pdb
-D:\TaskManager for University\Tasks.Web\bin\Antlr3.Runtime.dll
-D:\TaskManager for University\Tasks.Web\bin\EntityFramework.dll
-D:\TaskManager for University\Tasks.Web\bin\EntityFramework.SqlServer.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Google.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.dll
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Web.Infrastructure.dll
-D:\TaskManager for University\Tasks.Web\bin\Newtonsoft.Json.dll
-D:\TaskManager for University\Tasks.Web\bin\Owin.dll
-D:\TaskManager for University\Tasks.Web\bin\PagedList.dll
-D:\TaskManager for University\Tasks.Web\bin\PagedList.Mvc.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Linq.Dynamic.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Helpers.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Mvc.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Optimization.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Razor.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.Deployment.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.dll
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.Razor.dll
-D:\TaskManager for University\Tasks.Web\bin\Tasks.Data.dll
-D:\TaskManager for University\Tasks.Web\bin\WebGrease.dll
-D:\TaskManager for University\Tasks.Web\bin\Tasks.Data.pdb
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\TaskManager for University\Tasks.Web\bin\PagedList.xml
-D:\TaskManager for University\Tasks.Web\bin\PagedList.Mvc.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Helpers.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Mvc.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Optimization.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.Razor.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.Deployment.xml
-D:\TaskManager for University\Tasks.Web\bin\System.Web.WebPages.Razor.xml
-D:\TaskManager for University\Tasks.Web\bin\Antlr3.Runtime.pdb
-D:\TaskManager for University\Tasks.Web\bin\Newtonsoft.Json.xml
-D:\TaskManager for University\Tasks.Web\bin\EntityFramework.xml
-D:\TaskManager for University\Tasks.Web\bin\EntityFramework.SqlServer.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Google.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.xml
-D:\TaskManager for University\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\TaskManager for University\Tasks.Web\obj\Debug\Tasks.Web.csprojResolveAssemblyReference.cache
-D:\TaskManager for University\Tasks.Web\obj\Debug\Tasks.Web.dll
-D:\TaskManager for University\Tasks.Web\obj\Debug\Tasks.Web.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\csc.exe
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\vbc.exe
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\VBCSCompiler.exe
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Web.dll.config
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Web.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Web.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Antlr3.Runtime.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\EntityFramework.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\EntityFramework.SqlServer.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Newtonsoft.Json.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Owin.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\PagedList.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\PagedList.Mvc.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Linq.Dynamic.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Helpers.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Mvc.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Optimization.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Razor.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.Razor.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Data.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Service.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\WebGrease.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Data.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Tasks.Service.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\PagedList.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\PagedList.Mvc.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Helpers.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Mvc.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Optimization.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.Razor.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\System.Web.WebPages.Razor.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Antlr3.Runtime.pdb
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Newtonsoft.Json.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\EntityFramework.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\EntityFramework.SqlServer.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\obj\Debug\Tasks.Web.csprojResolveAssemblyReference.cache
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\obj\Debug\Tasks.Web.dll
+E:\Изтегляния\TaskManagerForUniversity-master (1)\TaskManagerForUniversity-master\Tasks.Web\obj\Debug\Tasks.Web.pdb

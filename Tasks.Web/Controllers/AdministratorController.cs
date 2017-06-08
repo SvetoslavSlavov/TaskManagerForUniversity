@@ -10,6 +10,7 @@ using Tasks.Data;
 using PagedList;
 using Microsoft.AspNet.Identity;
 using System.Linq.Dynamic;
+using Tasks.Service;
 
 namespace Tasks.Web.Controllers
 {
